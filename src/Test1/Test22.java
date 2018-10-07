@@ -5,6 +5,7 @@ package Test1;
  */
 public class Test22 {
     public static void main(String[] args) {
+        int a=2;
         System.out.println("2");
     }
 }
